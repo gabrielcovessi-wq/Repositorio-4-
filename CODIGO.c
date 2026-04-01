@@ -1,0 +1,1 @@
+/*codigo muito dificil em c ninguem consegue entender*/
