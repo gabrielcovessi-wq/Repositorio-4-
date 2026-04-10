@@ -1,1 +1,1 @@
-/*codigo muito dificil em c ninguem consegue entender*/
+/*codigo muito dificil em c ninguem consegue entender nao vou codar nada mesmo kkkkkkk*/
